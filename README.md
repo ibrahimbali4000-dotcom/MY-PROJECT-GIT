@@ -1,2 +1,5 @@
 # MY-PROJECT-GIT
 FOR LEARING
+
+
+##PROJEECT notes
